@@ -135,8 +135,12 @@ necessarily when they left the university.
 * Javier Gonzalez Sanchez, (2022-), TT, Ph.D., Arizona State University
 * Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
 * Vanessa Rivera (2022-)
-* Ashlee Pieris (2022-)
-* Adnan Anwar Awan (2023-)
+* Ashlee Pieris (2022-2023)
+* Adnan Anwar Awan (2023-), Ph.D.
+* Daniel Frishberg (2023-), TT, Ph.D.
+* Ka Yaw Teo (2023-), TT, Ph.D.
+* Ken Kubiak (2023-)
+* Kirk Duran (2023-)
 
 ## Part-time Faculty & Visitors
 

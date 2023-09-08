@@ -30,8 +30,11 @@ to provide technological leadership to the university community.
 * [2005–2006: Mei-Ling Liu](./2005-2006-Liu.md)
 * [2006–2016: Ignatios Vakalis](./Chair-Ignatios-Vakalis.md)
 * [2016–2017: Franz Kurfess](./Chair-Franz-Kurfess.md)
-* [2017–present: Chris Lupo](./Chair-Chris-Lupo.md)
-# [Hannula](./Hannula.md)
+* [2017–2023: Chris Lupo](./Chair-Chris-Lupo.md)
+* [2023-present: Aaron Keen](./Chair-Aaron-Keen.md)
+
+
+* [Reino Hannula](./Hannula.md)
 
 
 
@@ -49,9 +52,9 @@ and the World Wide Web.
 
 Programming starts out with a small "formula-like language,"
 called Fortran, moves to PL/I, to Pascal, to Modula-2, to Ada, to
-C/C++, to Java, and Racket; from no "goto"s, to modular programming, to
-object oriented programming, to distributed programming. Yeah, okay, I edited 
-that paragraph.
+C/C++, to Java, to Python, and Racket; from "no goto's", to modular programming, to
+object oriented programming, to distributed programming, to AI-assisted
+programming.
 
 What an exciting time period to be in this field. Rarely has any discipline
 had such dramatic changes. What a challenge for a faculty to "teach
@@ -65,16 +68,14 @@ The technology development underlying our profession has only one
 direction - forward, and only one speed -- wide open. 
 
 What will computer science be in the future? How do we visualize it?
-Based on the last 30 years, it will be impossible to predict -- enjoy
+Based on the last 60 years, it will be impossible to predict -- enjoy
 the journey!
 
 This volume relates the story of the evolution of the Cal Poly Computer
-Science Department over the past quarter century. 
+Science Department over the past half-century. 
 
 As you read, identify the people in the pictures and in your mind's
 eye go back in time with them and put yourself in their places. Try
 to understand their opportunities, their challenges. We hope you enjoy
 reading this small history and gain an even greater appreciation of
 your students, the faculty who preceded you, and our profession.
-
-

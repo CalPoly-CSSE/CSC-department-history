@@ -120,7 +120,7 @@ necessarily when they left the university.
 * Dongfeng "Phoenix" Fang, (2019-), TT, Ph.D., University of Nebraska Lincoln
 * Paul Anderson, (2019-), TT, Ph.D., Wright State University
 * Toshihiro Kuboi (2019-2021), M.S., Cal Poly
-* Sara Ford (2019-2020)
+* Sara Ford (2019-2020), Human Factors, M.S., San Jose State University 
 * Kirsten Mork (2019-), M.S., Cal Poly
 * Ayaan Kazerouni, (2020-), TT, Ph.D., Virginia Tech
 * Nasir Eisty, (2020-2021), TT, Ph.D., University of Alabama

@@ -134,7 +134,7 @@ necessarily when they left the university.
 * Sumona Mukhopadhyay (2021-), TT starting 2022, Ph.D., University of Calgary
 * Javier Gonzalez Sanchez, (2022-), TT, Ph.D., Arizona State University
 * Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
-* Vanessa Rivera (2022-), Astrophysics, M.S., University of Arizona Tucscon
+* Vanessa Rivera (2022-), Astrophysics, M.S., University of Arizona Tucson
 * Ashlee Pieris (2022-2023), M.S., Fairleigh Dickinson University
 * Adnan Anwar Awan (2023-), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
 * Daniel Frishberg (2023-), TT, Ph.D. UC Irvine

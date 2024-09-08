@@ -141,6 +141,14 @@ necessarily when they left the university.
 * Ka Yaw Teo (2023-), TT, Ph.D., University of Texas Dallas
 * Ken Kubiak (2023-), Computer Engineering, Ph.D., University of Illinois Urbana-Champaign
 * Kirk Duran (2023-), M.S., Sonoma State University
+* Borislav Hristov (2024-), TT, Ph.D., Princeton University
+* Paris Kalathas (2024-), TT, Ph.D., Oregon State University
+* Fahim Khan (2024-), TT, Ph.D., UC Santa Cruz
+* Paul Schmitt (2024-), TT, Ph.D., UC Santa Barbara
+* Silas Hsu (2024-), TT, PhD., U. of Illinois at Urbana-Champaign
+* Chris Zielke (2024-), B.S., Cal Poly
+* Anita Rathi (2024-), Ed.D., University of San Francisco
+
 
 ## Part-time Faculty & Visitors
 

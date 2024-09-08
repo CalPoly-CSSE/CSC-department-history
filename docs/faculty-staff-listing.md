@@ -115,7 +115,7 @@ necessarily when they left the university.
 * Daniel Kauffman (2017-2021), M.S., Cal Poly
 * Jonathan Ventura, (2018-), TT, Ph.D., UC Santa Barbara
 * Nicholas Sakellariou (2018-2020), Ph.D., UC Berkeley
-* Irene Humer (2018-), Ph.D., University of Vienna, Austria
+* Irene Humer (2018-), TT starting 2024, Ph.D., University of Vienna, Austria
 * Bill Foote (2018-2019), M.S., UC Berkeley
 * Dongfeng "Phoenix" Fang, (2019-), TT, Ph.D., University of Nebraska Lincoln
 * Paul Anderson, (2019-), TT, Ph.D., Wright State University
@@ -136,7 +136,7 @@ necessarily when they left the university.
 * Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
 * Vanessa Rivera (2022-), Astrophysics, M.S., University of Arizona
 * Ashlee Pieris (2022-2023), M.S., Fairleigh Dickinson University
-* Adnan Anwar Awan (2023-), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
+* Adnan Anwar Awan (2023-2024), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
 * Daniel Frishberg (2023-), TT, Ph.D. UC Irvine
 * Ka Yaw Teo (2023-), TT, Ph.D., University of Texas Dallas
 * Ken Kubiak (2023-), Computer Engineering, Ph.D., University of Illinois Urbana-Champaign

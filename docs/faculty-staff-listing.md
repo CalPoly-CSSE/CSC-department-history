@@ -148,7 +148,7 @@ necessarily when they left the university.
 * Silas Hsu (2024-), TT, PhD., U. of Illinois at Urbana-Champaign
 * Chris Zielke (2024-), B.S., Cal Poly
 * Anita Rathi (2024-), Ed.D., University of San Francisco
-
+* Laila Abdelhafeez (2024-), Ph.D., University of California Irvine
 
 ## Part-time Faculty & Visitors
 

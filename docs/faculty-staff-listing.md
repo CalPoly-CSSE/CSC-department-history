@@ -230,10 +230,6 @@ necessarily when they left the university.
 * Linda Zhou
 
 
-
-
-
-
 ## CSC Department Staff
 
 * Lynda A. Alamo, office staff

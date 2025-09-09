@@ -26,7 +26,7 @@ necessarily when they left the university.
 * Bernard Evans, (1970-?), TT, Csc, Ph.D., Purdue University
 * John Y. S. Hsu, (1970-2002), TT, Csc, Ph.D., UC Berkeley
 * John M. Rogers, (1970?), TT, Statistics, Ph.D., Virginia Tech
-* John B. Connely, (1970-2000), TT, Csc, Ph.D., USC (Transfer from Education)
+* John B. Connely, (1970-2008), TT, Csc, Ph.D., USC (Transfer from Education)
 * Thomas V. Cahill, (1970?-?)
 * Joseph B. Stefanac, (1970?-?)
 * James P. Bohle, (1971-1973), TT, Csc, M.S., University of Oregon
@@ -53,7 +53,7 @@ necessarily when they left the university.
 * Linda Stanbery, (1983-?), TT, Statistics, M.S., California State University Northridge
 * Leonard D. Myers, (1984-2007?), TT, Csc, Ph.D., University of Kansas
 * Laurian M. Chirica, (1984-2007), TT, Ph.D., UCLA
-* Timothy J. Kearns, (1985-1987, 1999-2005, 2011-), TT, Csc, Ph.D., University of Notre Dame
+* Timothy J. Kearns, (1985-1987, 1999-2005, 2011-2024), TT, Csc, Ph.D., University of Notre Dame
 * Maureen C. Mellon, (1985-?), TT, Csc, M.S., Drexel University
 * Daniel Stearns, (1986-2007?), TT, Csc, M.S., California Polytechnic State University
 * Clinton A. Staley, (1988-2021), TT, Csc, Ph.D., UCSB
@@ -79,28 +79,28 @@ necessarily when they left the university.
 * Clark Turner, (2000-2022), TT, J.D., University of Maine School of Law; Ph.D., UC Irvine
 * Diana Franklin, (2002-2007), TT, Ph.D., UC Davis
 * Aaron Keen, (2002-), TT, Ph.D., UC Davis
-* Kurt Mammen (2002-2021), M.S., Cal Poly
+* Kurt Mammen, (2002-2021), M.S., Cal Poly
 * Michael Haungs, (2003-), TT, Ph.D., UC Davis
 * John Seng, (2003-), TT, Ph.D., UC San Diego
 * Zoe Wood, (2003-), TT, Ph.D., Caltech
-* Julie Workman (2004-), M.S., Cal Poly
+* Julie Workman (2004-2025), M.S., Cal Poly
 * John Clements, (2005-), TT, Ph.D., Northeastern University
 * David Janzen, (2006-2021), TT, Ph.D., University of Kansas
 * Ignatios Vakalis, (2006-2021), TT, Ph.D., Western Michigan University
 * Kurt Voelker (2006-), M.S., Cal Poly
 * Alex Dekhtyar, (2007-), TT, Ph.D., University of Maryland, College Park
-* Paul Hatalsky (2007-), M.S., Cal Poly
+* Paul Hatalsky (2007-2024), M.S., Cal Poly
 * Chris Clark, (2007-2012), TT, Ph.D., Stanford University
 * John Bellardo, (2007-), TT, Ph.D., UC San Diego
 * Chris Lupo, (2008-), TT, Ph.D., UC Davis
 * Foaad Khosmood, (2011-), TT, Ph.D., UC Santa Cruz
 * Zachary N. J. Peterson, (2013-), TT, Ph.D., Johns Hopkins University
 * Shinjiro Sueda, (2014-2016), TT, Ph.D., University of British Columbia, Canada
-* Davide Falessi, (2014-2020), TT, Ph.D., University of Rome Tor Vergata, Italy
+* Davide Falessi, (2015-2020), TT, Ph.D., University of Rome Tor Vergata, Italy
 * Timothy Hawkins (2014-2015)
 * Allan Fowler (2015), Ph.D., University of Auckland, New Zealand
 * Sussan Einakian (2015-), Ph.D., University of Alabama at Huntsville
-* Theresa Migler-VonDollen (2015-), TT starting 2018, Ph.D., Oregon State (later a TT faculty member)
+* Theresa Migler (2015-), TT starting 2018, Ph.D., Oregon State (later a TT faculty member)
 * John Planck (2015-), B.S., California Polytechnic State University
 * Lubomir Stanchev, (2015-), TT, Ph.D., University of Waterloo, Canada
 * Bruce DeBruhl, (2015-), TT, Ph.D., Carnegie Mellon University
@@ -112,6 +112,7 @@ necessarily when they left the university.
 * Bruno Carreiro da Silva, (2017-2022), TT, Ph.D., Federal University of Bahia, Brazil
 * George Taylor (2017-2019), Ph.D., UC Berkeley
 * Christopher Siu (2017-), M.S. Cal Poły
+* Andrew Migler (2017-), 
 * Daniel Kauffman (2017-2021), M.S., Cal Poly
 * Jonathan Ventura, (2018-), TT, Ph.D., UC Santa Barbara
 * Nicholas Sakellariou (2018-2020), Ph.D., UC Berkeley
@@ -121,16 +122,16 @@ necessarily when they left the university.
 * Paul Anderson, (2019-), TT, Ph.D., Wright State University
 * Toshihiro Kuboi (2019-2021), M.S., Cal Poly
 * Sara Ford (2019-2020), Human Factors, M.S., San Jose State University 
-* Kirsten Mork (2019-), M.S., Cal Poly
+* Kirsten Mork (2019-2024), M.S., Cal Poly
 * Ayaan Kazerouni, (2020-), TT, Ph.D., Virginia Tech
 * Nasir Eisty, (2020-2021), TT, Ph.D., University of Alabama
 * Stephen Beard, (2020-), TT, Ph.D., Princeton University
-* BJ Klingenberg (2020-), M.S., University of Arizona
+* BJ Klingenberg (2021-), M.S., University of Arizona
 * Joydeep Mukherjee, (2021-), TT, Ph.D., University of Calgary, Canada
 * April Grow, (2021-), TT, Ph.D., UC Santa Cruz
 * Mugizi Rwebangira, (2021-), TT, Ph.D., Carnegie Mellon University
 * Rodrigo Canaan, (2021-), TT, Ph.D., New York University
-* Brian Jones (2021-), M.S., Cal Poly
+* Brian Jones (2016-2017,2020-), M.S., Cal Poly
 * Sumona Mukhopadhyay (2021-), TT starting 2022, Ph.D., University of Calgary
 * Javier Gonzalez Sanchez, (2022-), TT, Ph.D., Arizona State University
 * Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
@@ -148,7 +149,10 @@ necessarily when they left the university.
 * Silas Hsu (2024-), TT, PhD., U. of Illinois at Urbana-Champaign
 * Chris Zielke (2024-), B.S., Cal Poly
 * Anita Rathi (2024-), Ed.D., University of San Francisco
-* Laila Abdelhafeez (2024-), Ph.D., University of California Irvine
+* Laila Abdelhafeez (2024-), TT starting 2025, Ph.D., University of California Irvine
+* Alex Bisberg (2025-), TT, Ph.D., University of Southern California
+* Austin Wright (2025-), TT, Ph.D., Georgia Institute of Technology
+* Greg Philbrick (2025-), Ph.D., University of Waterloo
 
 ## Part-time Faculty & Visitors
 
@@ -211,7 +215,7 @@ necessarily when they left the university.
 * Pasha Rostov
 * Ken Rothmuller (2006-2007)
 * Arthur Rowland (?-2003)
-* Nicholas Sakellariou (2015-2018), Ph.D., UC Berkeley
+* Nicholas Sakellariou (2016-2018), Ph.D., UC Berkeley
 * Carol Scheftic
 * Bob Schuermann
 * Uwe Schultz (2015)

@@ -100,7 +100,7 @@ necessarily when they left the university.
 * Timothy Hawkins (2014-2015)
 * Allan Fowler (2015), Ph.D., University of Auckland, New Zealand
 * Sussan Einakian (2015-), Ph.D., University of Alabama at Huntsville
-* Theresa Migler (2015-), TT starting 2018, Ph.D., Oregon State (later a TT faculty member)
+* Theresa Migler (2015-), TT starting 2018, Ph.D., Oregon State
 * John Planck (2015-), B.S., California Polytechnic State University
 * Lubomir Stanchev, (2015-), TT, Ph.D., University of Waterloo, Canada
 * Bruce DeBruhl, (2015-), TT, Ph.D., Carnegie Mellon University

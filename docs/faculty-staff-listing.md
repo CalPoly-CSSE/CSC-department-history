@@ -1,31 +1,41 @@
 
 ## Full-Time Faculty
 
-Starting dates for some faculty precede the establishment of the
-department in mid-1969. However, ending dates for certain Philosophy and
-Statistics faculty indicate when they left the department, not
-necessarily when they left the university.
 
-* James T. Culbertson, (1953-1970), TT, Philosophy, Ph.D., Yale
-* William O. Buschman, (1956-1980), TT, Csc, Ed.D., Oregon State University
-* Robert H. Dourson, (1967-1987), TT, Csc, M.S., Cal Tech
-* Kenneth F. Fuller, (1960-1971+?), TT, Statistics, Ph.D., Columbia University
+A brief timeline, extracted from other parts of this history:
+
+* 1969 - Department of Philosophy, Statistics, and Computer Science is
+  formed, separated from Math.
+* 1970 - Department of Philosophy separates from Computer Science and
+  Statistics.
+* 1984 - Department of Computer Science separates and joins "SENG"
+  (School of Engineering), Statistics remains as a "SOSAM" (School
+  of Science and Math) department.
+
+Faculty timelines, below, have been trimmed to these dates. So, for
+instance, James Culpertson joined Cal Poly in 1953, but his tenure
+in the computer science department is listed here as being 1969-1970.
+
+* James T. Culbertson, (1969-1970), TT, Philosophy, Ph.D., Yale
+* William O. Buschman, (1969-1980), TT, Csc, Ed.D., Oregon State University
+* Robert H. Dourson, (1969-1987), TT, Csc, M.S., Cal Tech
+* Kenneth F. Fuller, (1969-1971?), TT, Statistics, Ph.D., Columbia University
 * Curtis F. Gerald, (1964-1980), TT, Csc, Ph.D., MIT
 * Reino Hannula, (1962-1981), TT, Csc, M.S., UCLA
 * Elmo A. Keller, (1963-2000), TT, Csc, Ph.D., Iowa State University
-* Y. Leon Maksoudian, (1963-1999), TT, Statistics, Ph.D., U. of Minnesota
+* Y. Leon Maksoudian, (1963-1984), TT, Statistics, Ph.D., U. of Minnesota
 * John Groves, (1968-1971+?), TT, Statistics, Ph.D., Kansas State University
 * Daniel F. Stubbs, (1963-1997), TT, Csc, Ph.D., Rensselaer Polytechnic
 * Arthur Bethel, (1968-1970), TT, Philosophy, M.A., UCSB 
 * Ray E. Boche, (1969-1999), TT, Csc, Ph.D., Texas Tech University (former Director of Computer Center)
 * Mary Dolores Sweet, (1969-1970), TT, Csc, Ph.D., University of Missouri (switched to Philosophy Department)
 * Neil W. Webre, (1969-1993), TT, Csc, A.M., Harvard University
-* Sing-Chow Wu, (1969-1999), TT, Statistics, Ph.D., Colorado State University
+* Sing-Chow Wu, (1969-1984), TT, Statistics, Ph.D., Colorado State University
 * Patrick O. Wheatley, (1970-1998), TT, Csc, Ph.D., University of Houston (transfer from Mathematics)
 * Emile E. Attala, (1970-1997), TT, Csc, Ph.D., UCSB
 * Bernard Evans, (1970-?), TT, Csc, Ph.D., Purdue University
 * John Y. S. Hsu, (1970-2002), TT, Csc, Ph.D., UC Berkeley
-* John M. Rogers, (1970?), TT, Statistics, Ph.D., Virginia Tech
+* John M. Rogers, (1970-1984), TT, Statistics, Ph.D., Virginia Tech
 * John B. Connely, (1970-2008), TT, Csc, Ph.D., USC (Transfer from Education)
 * Thomas V. Cahill, (1970?-?)
 * Joseph B. Stefanac, (1970?-?)
@@ -43,16 +53,16 @@ necessarily when they left the university.
 * Robert K. Smidt, (1978-?), TT, Statistics, Ph.D., University of Wyoming
 * Michael Van De Vanter (1979-1983), Ph.D., UC Berkeley
 * Thomas Foley, (1979-1983), TT, Csc, Ph.D., Arizona State University
-* Roxy Peck, (1979), TT, Statistics, Ph.D., UC Riverside
-* John Dalbey (1980-2017), Ph.D., UC Berkeley
+* Roxy Peck, (1979-1984), TT, Statistics, Ph.D., UC Riverside
+* John Dalbey, (1980-2017), Ph.D., UC Berkeley
 * Joseph Sharp, (1980-?), TT, Csc, Ph.D., UC Berkeley
 * Kent Smith, (1981-?), TT, Statistics, Ph.D., UC Riverside
 * Charles H. Dana, (1982-2016), TT, Csc, Ph.D., UC Santa Barbara
 * Zane C. Motteler, (1982-1993), TT, Csc, Ph.D., Stanford University
 * Cornel K. Pokorny, (1983-2008), TT, Csc, Ph.D., Texas Tech. University
-* Linda Stanbery, (1983-?), TT, Statistics, M.S., California State University Northridge
+* Linda Stanbery, (1983-1984), TT, Statistics, M.S., California State University Northridge
 * Leonard D. Myers, (1984-2007?), TT, Csc, Ph.D., University of Kansas
-* Laurian M. Chirica, (1984-2007), TT, Ph.D., UCLA
+* Laurian M. Chirica, (1984-2007), TT, Csc, Ph.D., UCLA
 * Timothy J. Kearns, (1985-1987, 1999-2005, 2011-2024), TT, Csc, Ph.D., University of Notre Dame
 * Maureen C. Mellon, (1985-?), TT, Csc, M.S., Drexel University
 * Daniel Stearns, (1986-2007?), TT, Csc, M.S., California Polytechnic State University
@@ -67,9 +77,9 @@ necessarily when they left the university.
 * Mei-ling Liu, (1994-2010,2012), TT, Csc, Ph.D., UCSB
 * Chris Scheiman, (1994-2000), TT, Csc, Ph.D., UCSB
 * Emilia E. "Millie" Buckalew (Villarreal), (1994-2000?), TT, Csc, Ph.D., University of Texas
-* Nancy J. Parham (?-2009), M.S., CSU San Bernardino
-* Kevin O'Gorman (?-2011), Ph.D., UC Santa Barbara
-* Mark Hutchenreuther (1997-2012), M.S., CSU Northridge
+* Nancy J. Parham, (?-2009), M.S., CSU San Bernardino
+* Kevin O'Gorman, (?-2011), Ph.D., UC Santa Barbara
+* Mark Hutchenreuther, (1997-2012), M.S., CSU Northridge
 * Sigurd Meldal, (1997-2001), TT, Dr. Scient., University of Oslo, Norway
 * Erika Rogers, (1998-2004), TT, Ph.D., Georgia Institute of Technology
 * Franz J. Kurfess, (2000-), TT, Dr. Rer. Nat. Informatik, Technical University of Munich, Germany
@@ -97,62 +107,62 @@ necessarily when they left the university.
 * Zachary N. J. Peterson, (2013-), TT, Ph.D., Johns Hopkins University
 * Shinjiro Sueda, (2014-2016), TT, Ph.D., University of British Columbia, Canada
 * Davide Falessi, (2015-2020), TT, Ph.D., University of Rome Tor Vergata, Italy
-* Timothy Hawkins (2014-2015)
-* Allan Fowler (2015), Ph.D., University of Auckland, New Zealand
-* Sussan Einakian (2015-), Ph.D., University of Alabama at Huntsville
-* Theresa Migler (2015-), TT starting 2018, Ph.D., Oregon State
-* John Planck (2015-), B.S., California Polytechnic State University
+* Timothy Hawkins, (2014-2015)
+* Allan Fowler, (2015-2015), Ph.D., University of Auckland, New Zealand
+* Sussan Einakian, (2015-), Ph.D., University of Alabama at Huntsville
+* Theresa Migler, (2015-), TT starting 2018, Ph.D., Oregon State
+* John Planck, (2015-), B.S., California Polytechnic State University
 * Lubomir Stanchev, (2015-), TT, Ph.D., University of Waterloo, Canada
 * Bruce DeBruhl, (2015-), TT, Ph.D., Carnegie Mellon University
 * Maria Pantoja, (2016-), TT, Ph.D., Santa Clara University
 * Brad Hollister (2016-2018), Ph.D., UC Santa Cruz
-* Muhammad Ghanbari (2016-2017), Ph.D., University of Alabama Huntsville
+* Muhammad Ghanbari, (2016-2017), Ph.D., University of Alabama Huntsville
 * Motahareh "Sara" Bahrami Zanjani, (2017-2019), TT, Ph.D., Wichita State University
 * Christian Eckhardt, (2017-), TT, Ph.D., Vienna University of Technology, Austria
 * Bruno Carreiro da Silva, (2017-2022), TT, Ph.D., Federal University of Bahia, Brazil
 * George Taylor (2017-2019), Ph.D., UC Berkeley
-* Christopher Siu (2017-), M.S. Cal Poły
-* Andrew Migler (2017-), 
-* Daniel Kauffman (2017-2021), M.S., Cal Poly
+* Christopher Siu, (2017-), M.S. Cal Poły
+* Andrew Migler, (2017-), 
+* Daniel Kauffman, (2017-2021), M.S., Cal Poly
 * Jonathan Ventura, (2018-), TT, Ph.D., UC Santa Barbara
-* Nicholas Sakellariou (2018-2020), Ph.D., UC Berkeley
-* Irene Humer (2018-), TT starting 2024, Ph.D., University of Vienna, Austria
-* Bill Foote (2018-2019), M.S., UC Berkeley
+* Nicholas Sakellariou, (2018-2020), Ph.D., UC Berkeley
+* Irene Humer, (2018-), TT starting 2024, Ph.D., University of Vienna, Austria
+* Bill Foote, (2018-2019), M.S., UC Berkeley
 * Dongfeng "Phoenix" Fang, (2019-), TT, Ph.D., University of Nebraska Lincoln
 * Paul Anderson, (2019-), TT, Ph.D., Wright State University
-* Toshihiro Kuboi (2019-2021), M.S., Cal Poly
-* Sara Ford (2019-2020), Human Factors, M.S., San Jose State University 
-* Kirsten Mork (2019-2024), M.S., Cal Poly
+* Toshihiro Kuboi, (2019-2021), M.S., Cal Poly
+* Sara Ford, (2019-2020), Human Factors, M.S., San Jose State University 
+* Kirsten Mork, (2019-2024), M.S., Cal Poly
 * Ayaan Kazerouni, (2020-), TT, Ph.D., Virginia Tech
 * Nasir Eisty, (2020-2021), TT, Ph.D., University of Alabama
 * Stephen Beard, (2020-), TT, Ph.D., Princeton University
-* BJ Klingenberg (2021-), M.S., University of Arizona
+* BJ Klingenberg, (2021-), M.S., University of Arizona
 * Joydeep Mukherjee, (2021-), TT, Ph.D., University of Calgary, Canada
 * April Grow, (2021-), TT, Ph.D., UC Santa Cruz
 * Mugizi Rwebangira, (2021-), TT, Ph.D., Carnegie Mellon University
 * Rodrigo Canaan, (2021-), TT, Ph.D., New York University
-* Brian Jones (2016-2017,2020-), M.S., Cal Poly
-* Sumona Mukhopadhyay (2021-), TT starting 2022, Ph.D., University of Calgary
+* Brian Jones, (2016-2017,2020-), M.S., Cal Poly
+* Sumona Mukhopadhyay, (2021-), TT starting 2022, Ph.D., University of Calgary
 * Javier Gonzalez Sanchez, (2022-), TT, Ph.D., Arizona State University
 * Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
-* Vanessa Rivera (2022-), Astrophysics, M.S., University of Arizona
-* Ashlee Pieris (2022-2023), M.S., Fairleigh Dickinson University
-* Adnan Anwar Awan (2023-2024), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
-* Daniel Frishberg (2023-), TT, Ph.D. UC Irvine
+* Vanessa Rivera, (2022-), Astrophysics, M.S., University of Arizona
+* Ashlee Pieris, (2022-2023), M.S., Fairleigh Dickinson University
+* Adnan Anwar Awan, (2023-2024), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
+* Daniel Frishberg, (2023-), TT, Ph.D. UC Irvine
 * Ka Yaw Teo (2023-), TT, Ph.D., University of Texas Dallas
 * Ken Kubiak (2023-), Computer Engineering, Ph.D., University of Illinois Urbana-Champaign
 * Kirk Duran (2023-), M.S., Sonoma State University
-* Borislav Hristov (2024-), TT, Ph.D., Princeton University
-* Paris Kalathas (2024-), TT, Ph.D., Oregon State University
-* Fahim Khan (2024-), TT, Ph.D., UC Santa Cruz
-* Paul Schmitt (2024-), TT, Ph.D., UC Santa Barbara
-* Silas Hsu (2024-), TT, PhD., U. of Illinois at Urbana-Champaign
-* Chris Zielke (2024-), B.S., Cal Poly
-* Anita Rathi (2024-), Ed.D., University of San Francisco
-* Laila Abdelhafeez (2024-), TT starting 2025, Ph.D., University of California Irvine
-* Alex Bisberg (2025-), TT, Ph.D., University of Southern California
-* Austin Wright (2025-), TT, Ph.D., Georgia Institute of Technology
-* Greg Philbrick (2025-), Ph.D., University of Waterloo
+* Borislav Hristov, (2024-), TT, Ph.D., Princeton University
+* Paris Kalathas, (2024-), TT, Ph.D., Oregon State University
+* Fahim Khan, (2024-), TT, Ph.D., UC Santa Cruz
+* Paul Schmitt, (2024-), TT, Ph.D., UC Santa Barbara
+* Silas Hsu, (2024-), TT, PhD., U. of Illinois at Urbana-Champaign
+* Chris Zielke, (2024-), B.S., Cal Poly
+* Anita Rathi, (2024-), Ed.D., University of San Francisco
+* Laila Abdelhafeez, (2024-), TT starting 2025, Ph.D., University of California Irvine
+* Alex Bisberg, (2025-), TT, Ph.D., University of Southern California
+* Austin Wright, (2025-), TT, Ph.D., Georgia Institute of Technology
+* Greg Philbrick, (2025-), Ph.D., University of Waterloo
 
 ## Part-time Faculty & Visitors
 

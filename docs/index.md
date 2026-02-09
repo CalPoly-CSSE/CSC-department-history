@@ -19,7 +19,7 @@ to provide technological leadership to the university community.
 * [List of Faculty and Staff](faculty-staff-listing.md)
 * [Introduction](./Introduction.md)
 * [1969–1972: Curtis Gerald](./1969-1972-Gerald.md)
-* [1972–1977: Daniel Stubbs](./1972 1977-Department-Head-Daniel-Stubbs.md)
+* [1972–1977: Daniel Stubbs](./1972-1977-Department-Head-Daniel-Stubbs.md)
 * [1977–1983: Attala](./1977-1983-Attala.md)
 * [1983–1986: Webre](./1983-1986-Webre.md)
 * [1987–1990: Camp](./1987-1990-Camp.md)

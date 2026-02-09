@@ -24,7 +24,7 @@ in the computer science department is listed here as being 1969-1970.
 * Reino Hannula, (1962-1981), TT, Csc, M.S., UCLA
 * Elmo A. Keller, (1963-2000), TT, Csc, Ph.D., Iowa State University
 * Y. Leon Maksoudian, (1963-1984), TT, Statistics, Ph.D., U. of Minnesota
-* John Groves, (1968-1971+?), TT, Statistics, Ph.D., Kansas State University
+* John Groves, (1968-1984), TT, Statistics, Ph.D., Kansas State University
 * Daniel F. Stubbs, (1963-1997), TT, Csc, Ph.D., Rensselaer Polytechnic
 * Arthur Bethel, (1968-1970), TT, Philosophy, M.A., UCSB 
 * Ray E. Boche, (1969-1999), TT, Csc, Ph.D., Texas Tech University (former Director of Computer Center)
@@ -33,7 +33,7 @@ in the computer science department is listed here as being 1969-1970.
 * Sing-Chow Wu, (1969-1984), TT, Statistics, Ph.D., Colorado State University
 * Patrick O. Wheatley, (1970-1998), TT, Csc, Ph.D., University of Houston (transfer from Mathematics)
 * Emile E. Attala, (1970-1997), TT, Csc, Ph.D., UCSB
-* Bernard Evans, (1970-?), TT, Csc, Ph.D., Purdue University
+* Bernard Evans, (1970-1978+), TT, Csc, Ph.D., Purdue University
 * John Y. S. Hsu, (1970-2002), TT, Csc, Ph.D., UC Berkeley
 * John M. Rogers, (1970-1984), TT, Statistics, Ph.D., Virginia Tech
 * John B. Connely, (1970-2008), TT, Csc, Ph.D., USC (Transfer from Education)
@@ -42,30 +42,31 @@ in the computer science department is listed here as being 1969-1970.
 * James P. Bohle, (1971-1973), TT, Csc, M.S., University of Oregon
 * Charles J. Welty, (1971-1973), TT, Csc, M.S., UC Berkeley
 * Corine A. Bickley, (1972-1974), TT, Csc, M.S., Washington State University
-* James C. Daly, (1972-?), TT, Statistics, Ph.D., Oregon State University
+* James C. Daly, (1972-1984), TT, Statistics, Ph.D., Oregon State University
 * Sham S. Luthra, (1972-1999), TT, Csc, Ph.D., University of Minnesota
-* Jay S. Bayne, (1973-?), TT, Csc, Ph.D., UCSB
+* Jay S. Bayne, (1973-1979?), TT, Csc, Ph.D., UCSB
 * James Beug, (1973-2004), TT, Csc, Ph.D., Ohio State University
-* Joseph Grimes, (1973-2013,2020), TT, Csc, Ph.D., Iowa State University
+* Joseph Grimes, (1973-2013,2020-2020), TT, Csc, Ph.D., Iowa State University
 * Roy B. Hollstien, (1973-1987), TT, Csc, Ph.D., University of Michigan
 * Robert G. Babb, (1974-?), TT, Csc, Ph.D., University of New Mexico
-* Jay L. Devore, (1978-?), TT, Statistics, Ph.D., Stanford University
-* Robert K. Smidt, (1978-?), TT, Statistics, Ph.D., University of Wyoming
-* Michael Van De Vanter (1979-1983), Ph.D., UC Berkeley
+* Jay L. Devore, (1978-1984), TT, Statistics, Ph.D., Stanford University
+* Robert K. Smidt, (1978-1984), TT, Statistics, Ph.D., University of Wyoming
+* Pasha Rostov, (1978-1992), Csc, M.S., UC Berkeley
+* Michael Van De Vanter, (1979-1983,2018-2021), Ph.D., UC Berkeley
 * Thomas Foley, (1979-1983), TT, Csc, Ph.D., Arizona State University
 * Roxy Peck, (1979-1984), TT, Statistics, Ph.D., UC Riverside
 * John Dalbey, (1980-2017), Ph.D., UC Berkeley
 * Joseph Sharp, (1980-?), TT, Csc, Ph.D., UC Berkeley
-* Kent Smith, (1981-?), TT, Statistics, Ph.D., UC Riverside
+* Kent Smith, (1981-1984), TT, Statistics, Ph.D., UC Riverside
 * Charles H. Dana, (1982-2016), TT, Csc, Ph.D., UC Santa Barbara
 * Zane C. Motteler, (1982-1993), TT, Csc, Ph.D., Stanford University
 * Cornel K. Pokorny, (1983-2008), TT, Csc, Ph.D., Texas Tech. University
 * Linda Stanbery, (1983-1984), TT, Statistics, M.S., California State University Northridge
-* Leonard D. Myers, (1984-2007?), TT, Csc, Ph.D., University of Kansas
+* Leonard D. Myers, (1984-2006), TT, Csc, Ph.D., University of Kansas
 * Laurian M. Chirica, (1984-2007), TT, Csc, Ph.D., UCLA
 * Timothy J. Kearns, (1985-1987, 1999-2005, 2011-2024), TT, Csc, Ph.D., University of Notre Dame
 * Maureen C. Mellon, (1985-?), TT, Csc, M.S., Drexel University
-* Daniel Stearns, (1986-2007?), TT, Csc, M.S., California Polytechnic State University
+* Daniel Stearns, (1986-2006), TT, Csc, M.S., California Polytechnic State University
 * Clinton A. Staley, (1988-2021), TT, Csc, Ph.D., UCSB
 * Lois Brady, (1988-2004), TT, Ph.D., University of Wisconsin
 * James Etheredge, (1988-1991), TT, Ph.D., Southwestern Louisiana
@@ -74,10 +75,10 @@ in the computer science department is listed here as being 1969-1970.
 * W. Chris Buckalew, (1990-2018), TT, Ph.D., University of Texas
 * Gene Fisher, (1991-2015), TT, Csc, Ph.D., UC Irvine
 * Lewis Hitchner, (1991-2007), TT, Csc, Ph.D., University of Utah
-* Mei-ling Liu, (1994-2010,2012), TT, Csc, Ph.D., UCSB
+* Nancy J. Parham, (1992-2009), M.S., CSU San Bernardino
+* Mei-ling Liu, (1994-2010,2012-2012), TT, Csc, Ph.D., UCSB
 * Chris Scheiman, (1994-2000), TT, Csc, Ph.D., UCSB
-* Emilia E. "Millie" Buckalew (Villarreal), (1994-2000?), TT, Csc, Ph.D., University of Texas
-* Nancy J. Parham, (?-2009), M.S., CSU San Bernardino
+* Emilia E. "Millie" Buckalew (Villarreal), (1994-2000?,2009-2009,2017-2018), TT, Csc, Ph.D., University of Texas
 * Kevin O'Gorman, (?-2011), Ph.D., UC Santa Barbara
 * Mark Hutchenreuther, (1997-2012), M.S., CSU Northridge
 * Sigurd Meldal, (1997-2001), TT, Dr. Scient., University of Oslo, Norway
@@ -93,13 +94,13 @@ in the computer science department is listed here as being 1969-1970.
 * Michael Haungs, (2003-), TT, Ph.D., UC Davis
 * John Seng, (2003-), TT, Ph.D., UC San Diego
 * Zoe Wood, (2003-), TT, Ph.D., Caltech
-* Julie Workman (2004-2025), M.S., Cal Poly
+* Julie Workman, (2004-2025), M.S., Cal Poly
 * John Clements, (2005-), TT, Ph.D., Northeastern University
 * David Janzen, (2006-2021), TT, Ph.D., University of Kansas
 * Ignatios Vakalis, (2006-2021), TT, Ph.D., Western Michigan University
-* Kurt Voelker (2006-), M.S., Cal Poly
+* Kurt Voelker, (2006-), M.S., Cal Poly
 * Alex Dekhtyar, (2007-), TT, Ph.D., University of Maryland, College Park
-* Paul Hatalsky (2007-2024), M.S., Cal Poly
+* Paul Hatalsky, (2007-2024), M.S., Cal Poly
 * Chris Clark, (2007-2012), TT, Ph.D., Stanford University
 * John Bellardo, (2007-), TT, Ph.D., UC San Diego
 * Chris Lupo, (2008-), TT, Ph.D., UC Davis
@@ -115,12 +116,12 @@ in the computer science department is listed here as being 1969-1970.
 * Lubomir Stanchev, (2015-), TT, Ph.D., University of Waterloo, Canada
 * Bruce DeBruhl, (2015-), TT, Ph.D., Carnegie Mellon University
 * Maria Pantoja, (2016-), TT, Ph.D., Santa Clara University
-* Brad Hollister (2016-2018), Ph.D., UC Santa Cruz
+* Brad Hollister, (2016-2018), Ph.D., UC Santa Cruz
 * Muhammad Ghanbari, (2016-2017), Ph.D., University of Alabama Huntsville
 * Motahareh "Sara" Bahrami Zanjani, (2017-2019), TT, Ph.D., Wichita State University
 * Christian Eckhardt, (2017-), TT, Ph.D., Vienna University of Technology, Austria
 * Bruno Carreiro da Silva, (2017-2022), TT, Ph.D., Federal University of Bahia, Brazil
-* George Taylor (2017-2019), Ph.D., UC Berkeley
+* George Taylor, (2017-2019), Ph.D., UC Berkeley
 * Christopher Siu, (2017-), M.S. Cal Poły
 * Andrew Migler, (2017-), 
 * Daniel Kauffman, (2017-2021), M.S., Cal Poly
@@ -144,14 +145,14 @@ in the computer science department is listed here as being 1969-1970.
 * Brian Jones, (2016-2017,2020-), M.S., Cal Poly
 * Sumona Mukhopadhyay, (2021-), TT starting 2022, Ph.D., University of Calgary
 * Javier Gonzalez Sanchez, (2022-), TT, Ph.D., Arizona State University
-* Devkishen Sisodia (2022-), TT, Ph.D., University of Oregon
+* Devkishen Sisodia, (2022-), TT, Ph.D., University of Oregon
 * Vanessa Rivera, (2022-), Astrophysics, M.S., University of Arizona
 * Ashlee Pieris, (2022-2023), M.S., Fairleigh Dickinson University
 * Adnan Anwar Awan, (2023-2024), Electrical and Electronics Engineering, Ph.D., Isra University, Pakistan
 * Daniel Frishberg, (2023-), TT, Ph.D. UC Irvine
-* Ka Yaw Teo (2023-), TT, Ph.D., University of Texas Dallas
-* Ken Kubiak (2023-), Computer Engineering, Ph.D., University of Illinois Urbana-Champaign
-* Kirk Duran (2023-), M.S., Sonoma State University
+* Ka Yaw Teo, (2023-), TT, Ph.D., University of Texas Dallas
+* Ken Kubiak, (2023-), Computer Engineering, Ph.D., University of Illinois Urbana-Champaign
+* Kirk Duran, (2023-), M.S., Sonoma State University
 * Borislav Hristov, (2024-), TT, Ph.D., Princeton University
 * Paris Kalathas, (2024-), TT, Ph.D., Oregon State University
 * Fahim Khan, (2024-), TT, Ph.D., UC Santa Cruz
@@ -222,7 +223,6 @@ in the computer science department is listed here as being 1969-1970.
 * Lorraine Rellick (2003)
 * Robert Ross (2003-2009), Ph.D., UC Berkeley
 * Lonny Rollins (2003-2007)
-* Pasha Rostov
 * Ken Rothmuller (2006-2007)
 * Arthur Rowland (?-2003)
 * Nicholas Sakellariou (2016-2018), Ph.D., UC Berkeley
@@ -234,8 +234,6 @@ in the computer science department is listed here as being 1969-1970.
 * Raghuram Sudhaakar (2016), Ph.D., SUNY Buffalo
 * Judy Tantivongsathaporn (2003-2004)
 * John Tucker (2005-2006)
-* Michael Van De Vanter (2018-2021), Ph.D., UC Berkeley
-* Emilia E. "Millie" Buckalew (Villarreal), (2009,2017-2018), Csc, Ph.D., University of Texas
 * Michael Wagner (2006)
 * ? Wang
 * Robert Webb (2007-2009)
@@ -257,7 +255,7 @@ in the computer science department is listed here as being 1969-1970.
 * Teresa Medrano (2017-), Financial Analyst
 * Ellen M. Stier (-2007), Administrative Analyst
 * Janice Zoradi, office staff
-* Christy Zolla (-2013), Department Coordinator
+* Christy Zolla (2010?-2013), Department Coordinator
 
 ### CSL Staff
 

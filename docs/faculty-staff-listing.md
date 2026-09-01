@@ -84,9 +84,9 @@ in the computer science department is listed here as being 1969-1970.
 * Sigurd Meldal, (1997-2001), TT, Dr. Scient., University of Oslo, Norway
 * Erika Rogers, (1998-2004), TT, Ph.D., Georgia Institute of Technology
 * Franz J. Kurfess, (2000-), TT, Dr. Rer. Nat. Informatik, Technical University of Munich, Germany
-* Phil Nico, (2000-), TT, Ph.D., UC Davis
-* Hasmik Gharibyan, (2000-), TT, Ph.D., Yerevan State University, Armenia, USSR
-* Hugh Smith, (2000-), TT, Ph.D., Michigan State University
+* Phil Nico, (2000-2026), TT, Ph.D., UC Davis
+* Hasmik Gharibyan, (2000-2025), TT, Ph.D., Yerevan State University, Armenia, USSR
+* Hugh Smith, (2000-2026), TT, Ph.D., Michigan State University
 * Clark Turner, (2000-2022), TT, J.D., University of Maine School of Law; Ph.D., UC Irvine
 * Diana Franklin, (2002-2007), TT, Ph.D., UC Davis
 * Aaron Keen, (2002-), TT, Ph.D., UC Davis
@@ -98,7 +98,7 @@ in the computer science department is listed here as being 1969-1970.
 * John Clements, (2005-), TT, Ph.D., Northeastern University
 * David Janzen, (2006-2021), TT, Ph.D., University of Kansas
 * Ignatios Vakalis, (2006-2021), TT, Ph.D., Western Michigan University
-* Kurt Voelker, (2006-), M.S., Cal Poly
+* Kurt Voelker, (2006-2026), M.S., Cal Poly
 * Alex Dekhtyar, (2007-), TT, Ph.D., University of Maryland, College Park
 * Paul Hatalsky, (2007-2024), M.S., Cal Poly
 * Chris Clark, (2007-2012), TT, Ph.D., Stanford University
@@ -164,6 +164,10 @@ in the computer science department is listed here as being 1969-1970.
 * Alex Bisberg, (2025-), TT, Ph.D., University of Southern California
 * Austin Wright, (2025-), TT, Ph.D., Georgia Institute of Technology
 * Greg Philbrick, (2025-), Ph.D., University of Waterloo
+* Junrui Liu, (2026-), TT, Ph.D., UC Santa Barbara
+* Snehal Prabhudesai, (2026-), TT, Ph.D., University of Michigan
+* Frank Elavsky, (2026-), TT, Carnegie Mellon University
+* Lara Nichols-Brown, (2026-), M.S., Cal Poly
 
 ## Part-time Faculty & Visitors
 
